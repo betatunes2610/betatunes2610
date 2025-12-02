@@ -18,8 +18,13 @@ Atualmente estudo **IA**, **Python**, **Arquiteturas Serverless**, **AWS** e **s
 - 🌎 Objetivo atual: unir experiência corporativa com soluções modernas em **Cloud, Serverless, IA e DevOps**
 
 ---
+### 🎓 Formação Acadêmica
 
-## 📘 Formações e Estudos Atuais
+**Universidade Católica de Brasília**  
+**Bacharelado em Ciência da Computação**  
+📍 Brasília, Distrito Federal  
+📅 07/2002 – 07/2008
+## 📘 Estudos Atuais
 
 - 🎓 **Engenharia de Inteligência Artificial** – Data Science Academy (conclusão: 05/2026)  
 - 🐍 **Python Impressionador** – Hashtag Treinamentos (07/2025)  
