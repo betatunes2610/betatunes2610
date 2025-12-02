@@ -21,7 +21,7 @@ Atualmente estudo **IA**, **Python**, **Arquiteturas Serverless**, **AWS** e **s
 
 ## 📘 Formações e Estudos Atuais
 
-- 🎓 **Engenharia de Inteligência Artificial** – Data Science Academy (conclusão: 08/2025)  
+- 🎓 **Engenharia de Inteligência Artificial** – Data Science Academy (conclusão: 05/2026)  
 - 🐍 **Python Impressionador** – Hashtag Treinamentos (07/2025)  
 - 🔐 **Cibersegurança – Hackers do Bem** (10/2025)  
 - ☕ **Java OO** – Caelum (40h)  
