@@ -54,5 +54,5 @@ Desenvolvimento em **Delphi**, **SQL**, **Oracle** e **PL/SQL**.
 ## 📌 Tecno­logias & Habilidades
 
 **Linguagens:** Python, SQL, PL/SQL, Java (básico), ADVPL, Delphi  
-**Cloud:** AWS (Lambda, API Gateway, Dynam
+**Cloud:** AWS (Lambda, API Gateway, DynamoDB)
 
