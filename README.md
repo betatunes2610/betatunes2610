@@ -20,10 +20,9 @@ Atualmente estudo **IA**, **Python**, **Arquiteturas Serverless**, **AWS** e **s
 ---
 ### 🎓 Formação Acadêmica
 
-**Universidade Católica de Brasília**  
-**Bacharelado em Ciência da Computação**  
-📍 Brasília, Distrito Federal  
-📅 07/2002 – 07/2008
+- **Universidade Católica de Brasília**  **Bacharelado em Ciência da Computação**  
+    📍 Brasília, Distrito Federal  
+    📅 07/2002 – 07/2008
 ## 📘 Estudos Atuais
 
 - 🎓 **Engenharia de Inteligência Artificial** – Data Science Academy (conclusão: 05/2026)  
