@@ -2,7 +2,7 @@
 
 **Analista de Sistemas | 15+ anos em Telecom | Python | IA | AWS | Cibersegurança**
 
-Sou uma profissional apaixonada por tecnologia, com sólida experiência na sustentação e evolução de sistemas críticos em empresas de telecomunicações. Após 15 anos trabalhando em plataformas como **SIEBEL**, **Clarify**, **Microsiga/ADVPL**, **Geco** e ambientes corporativos complexos, iniciei uma jornada em um novo universo: **Inteligência Artificial, Cloud Computing (AWS) e Cibersegurança**.
+Sou uma profissional apaixonada por tecnologia, com sólida experiência na sustentação e evolução de sistemas críticos em empresas de telecomunicações. Após 15 anos trabalhando em plataformas como **SIEBEL**, **Clarify**, **Microsiga** e ambientes corporativos complexos, iniciei uma jornada em um novo universo: **Inteligência Artificial, Cloud Computing (AWS) e Cibersegurança**.
 
 Atualmente estudo **IA**, **Python**, **Arquiteturas Serverless**, **AWS** e **segurança ofensiva**, combinando minha bagagem técnica com novos desafios do mundo cloud.
 
